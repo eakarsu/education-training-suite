@@ -9,3 +9,4 @@
 | AIMusicSchoolAcademyManager | 0 | 0 | 0 | 22 | frontend/src/main<br>frontend/src/pages/AIEnsembleAssignment<br>frontend/src/pages/AIEventPromotion<br>frontend/src/pages/AILessonPlan<br>frontend/src/pages/AIMarketingCampaign |
 | AISchoolSafetyThreatAssessment | 0 | 0 | 1 | 16 | server/openrouter<br>server/routes/ai-threat-severity<br>server/routes/aiCenter<br>server/routes/gap-limited-training-compliance-tracking<br>server/routes/gap-no-mentalhealthreferral-ai-triage |
 | AiPersonalizedTutor | 0 | 0 | 1 | 2 | frontend/src/pages/GapNoRealLmsIntegrationCanvasBlackboardAdapterPage<br>frontend/tailwind.config<br>frontend/src/main |
+| AIVRTrainingScenarioGenerator | 0 | 0 | 0 | 1 | VR Scenario Builder<br>Simulation Script<br>Training Debrief |

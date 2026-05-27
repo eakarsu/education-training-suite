@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## VR Training Scenario
+
+- VR Scenario Builder
+- Simulation Script
+- Training Debrief
+
+## Focused enhancement: VR Training Scenario
+
+Source evidence: AIVRTrainingScenarioGenerator.

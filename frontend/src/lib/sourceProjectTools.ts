@@ -1,5 +1,19 @@
 export const sourceProjectTools = [
   {
+    "id": "vr-training-scenario-copilot",
+    "title": "VR Training Scenario Copilot",
+    "category": "VR Training Scenario",
+    "description": "Focused VR Training Scenario AI tool elevated inside the current merged suite.",
+    "defaultPrompt": "Review the VR Training Scenario context. Return a professional summary, risks, missing evidence, next actions, and audit-ready outputs.",
+    "inputLabel": "VR Training Scenario context",
+    "outputLabel": "VR Training Scenario AI response",
+    "signals": [
+      "VR Scenario Builder",
+      "Simulation Script",
+      "Training Debrief"
+    ]
+  },
+  {
     "id": "ai-education-suite-source-workflow",
     "title": "AI Education Suite Source Workflow",
     "category": "Source Project Coverage",

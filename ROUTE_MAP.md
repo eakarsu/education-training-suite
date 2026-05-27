@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/training-debrief`
+- `/simulation-script`
+- `/vr-scenario-builder`
 - `/learners`
 - `/courses`
 - `/classes`

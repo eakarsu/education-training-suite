@@ -1,8 +1,8 @@
 # Education Training Suite Source Data Tables
 
-Mapped source projects: 7
+Mapped source projects: 8
 
-Detected source tables: 198
+Detected source tables: 208
 
 | Source Project | Table | Framework | Columns | Source File |
 | --- | --- | --- | ---: | --- |
@@ -204,3 +204,13 @@ Detected source tables: 198
 | AISchoolSafetyThreatAssessment | users | SQL | 6 | server/seed.js |
 | AISchoolSafetyThreatAssessment | visitor_logs | SQL | 10 | server/seed.js |
 | AISchoolSafetyThreatAssessment | weapon_detections | SQL | 10 | server/seed.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoAdaptiveDifficultyPersonalizedLearningPaths.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoCompletionCertificatePdfGeneration.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoInstructorDashboardWithStudentProgressViews.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoMultiLanguageSupport.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoNativeVrPlatformIntegrationUnityUnrealWebxr.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoPaymentSubscriptionIntegrationForB2bSales.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoPerformancePrediction.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoScenarioAutoGenerationFromIncidentData.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoScormXapiLmsExport.js |
+| AIVRTrainingScenarioGenerator | gap_features | SQL | 6 | backend/routes/gapNoWebhooks.js |

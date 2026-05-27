@@ -10,6 +10,21 @@ export type SourceDashboardAction = {
 
 export const sourceDashboardActions: SourceDashboardAction[] = [
   {
+    "id": "vr-training-scenario",
+    "label": "VR Training Scenario",
+    "description": "Open VR Training Scenario workflows elevated from AIVRTrainingScenarioGenerator.",
+    "href": "/vr-scenario-builder",
+    "sourceProjects": [
+      "AIVRTrainingScenarioGenerator"
+    ],
+    "examples": [
+      "VR Scenario Builder",
+      "Simulation Script",
+      "Training Debrief"
+    ],
+    "count": 1
+  },
+  {
     "id": "ai-assistant",
     "label": "AI Assistant",
     "description": "Run source-derived AI assistant workflows and prompts.",
